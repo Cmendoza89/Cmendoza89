@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...la programación
 - 🌱 I’m currently learning  python, SAP, VBA
 - 💞️ I’m looking to collaborate on  lo que sea
-- 📫 How to reach me ...
+- 📫 How to reach me cristian593mendoza@gmail.com
 
 <!---
 Cmendoza89/Cmendoza89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
