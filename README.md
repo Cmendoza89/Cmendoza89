@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cmendoza89
 - 👀 I’m interested in ...la programación
-- 🌱 I’m currently learning  python, SAP, VBA
+- 🌱 I’m currently learning  Python, SAP, VBA
 - 💞️ I’m looking to collaborate on  lo que sea
 - 📫 How to reach me cristian593mendoza@gmail.com
 
